@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #8E26C0;
+    max-width: 614px;
+    width: 614px;
+    font-size: 64px;
+    font-weight: 800;
+    margin-top: 24px;
+    margin-left: 653px;
+}
+
+#dontmiss {
+    max-width: 565px;
+    width: 100%;
+    background: #FFE8E8;
+    padding: 24px 40px;
+    margin-top: 137px;
+    margin-left: 32px;
+}
+
+#dontmissp {
+    color: #F00;
+    font-size: 32px;
+    font-weight: 400;
+    max-width: 446px;
+    width: 100%;
+}
+
+#take {
+    max-width: 1023px;
+    width: 100%;
+    padding: 24px 40px;
+    border-top: 2px solid #00C76E;
+    border-bottom: 2px solid #7F56D9;
+    border-left: 4px solid #C11574;
+    border-right: 6px solid #05F;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+#takep {
+    color: #85647B;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    max-width: 943px;
+    width: 100%;
+}
+
+#theend {
+    max-width: 1023px;
+    width: 100%;
+    padding: 24px 40px;
+    gap: 10px;
+    background: #FFE8E8;
+    margin-top: 44px;
+    margin-left: 32px;
+}
+
+#theendp {
+    color: #414651;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    max-width: 943px;
+    width: 100%;
+}
+
+#span {
+    color: #FF4405;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#hurry {
+    max-width: 1069px;
+    width: 1069px;
+    padding: 24px 40px;
+    gap: 10px;
+    border: 2px solid #3538CD;
+    margin-top: 36px;
+    margin-left: 32px;
+}
+
+#hurryp {
+    color: #0064CE;
+    text-align: right;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+
+#svg {
+    max-width: 556px;
+    width: 100%;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    margin-left: 32px;
+    margin-top: 76px;
+
+}
